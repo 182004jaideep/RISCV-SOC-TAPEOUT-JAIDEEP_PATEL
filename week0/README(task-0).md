@@ -33,4 +33,6 @@ sudo make install
 sudo make install
 ```bash
 
-<img width="1616" height="456" alt="Screenshot 2025-09-19 235821" src="https://github.com/user-attachments/assets/46561152-984e-4d0e-b0bf-73216b5c5e6d" />
+
+![Yosys Installation Screenshot](https://github.com/user-attachments/assets/46561152-984e-4d0e-b0bf-73216b5c5e6d)
+

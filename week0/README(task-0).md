@@ -4,7 +4,7 @@
 Install all the required tools listed in the setup document using the specified machine configuration.  
 Update the GitHub repository with tool snapshots as proof of successful installation.  
 
----
+***
 
 ## 💻 System Configuration
 - **Virtual Machine**: Oracle VirtualBox  
@@ -13,7 +13,7 @@ Update the GitHub repository with tool snapshots as proof of successful installa
 - **HDD**: 50 GB  
 - **CPU**: 4 vCPUs  
 
----
+***
 
 ### 1. Yosys (Synthesis Tool)
 
@@ -29,10 +29,4 @@ sudo apt-get install build-essential clang bison flex \
 make config-gcc
 make
 sudo make install
-
-sudo make install
-```bash
-
-
-![Yosys Installation Screenshot](https://github.com/user-attachments/assets/46561152-984e-4d0e-b0bf-73216b5c5e6d)
 
